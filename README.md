@@ -1,6 +1,6 @@
 # HR-ANALYTICS-DASHBOARD
-HR ANALYTICS DASHBOARD
-This HR Analytics Dashboard provides key insights into employee attrition, salary distribution, and workforce demographics. It enables HR professionals and decision-makers to identify trends and take proactive measures to improve employee retention.
+HR ANALYTICS DASHBOARD<br>
+This HR Analytics Dashboard provides key insights into employee attrition, salary distribution, and workforce demographics. It enables HR professionals and decision-makers to identify trends and take proactive measures to improve employee retention. <br>
 
 Key Features:
 Attrition by Salary – Visual representation of attrition rates based on salary levels, helping to analyze if compensation impacts employee turnover.
